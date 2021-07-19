@@ -3,12 +3,7 @@ http://www2.fiit.stuba.sk/~kapustik/zen.html
 
 Môj algoritmus :
 
-Najprv pridáme rozmery záhrady (ako row a col ) potom zvolíme s akou 
-metódou chcem selektovať na to som urobil 2 rôzne metódu 1) Roulette
-selekciu a 2) Tournament selekciu. Jedincov počet gény môžu obsahovať
-maximálne polovicu obvodu plus počet kamene. Ja používam iba polovicu 
-obvodu , čiže počet génov = (strana A + strana B ) / 2. Gény obsahujú čísla čo
-reprezentujú vstupy do záhrady . 
+Najprv pridáme rozmery záhrady (ako row a col ) potom zvolíme, akou metódou chcem vybrať chromosómy: na to som urobil 2 rôzne metódy: 1) Roulette selekciu a 2) Tournament selekciu. Maximálny počet génov jedinca môže byť polovica obvodu plus počet kameňov. Ja používam iba polovicu obvodu , čiže počet génov = (strana A + strana B ) / 2. Jednotlivé gény obsahujú čísla(col a row) čo reprezentujú vstupy do záhrady.
 
 Ked sme zvolili rozmery záhrady a spôsob selekciu tak načítame kamene najprv
 dáme počet kamene a potom toľkokrát načítam pozície kameňov ako X a Y .
