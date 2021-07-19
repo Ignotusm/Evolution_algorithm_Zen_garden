@@ -28,8 +28,11 @@ nenájdeme riešeniu pre danú záhradu.
 
 
 Výsledky pre 10x16 kameň : 6 selekcia : Roulette 
+
 Kameni : 2,1 ; 4,2 ; 3,4 ; 1,5 ; 6,8 ; 6,9
+
 Populácia : 500 Max Generácia : 500
+
 Výsledná matica : 
 
 [11] [ 9] [18] [18] [18] [18] [ 1] [17] [17] [ 4] [ 2] [12] [ 6] [ 7] [ 3] [14] 
